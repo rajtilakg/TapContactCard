@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TapContactCard</string>
+    <string name="service_name">TapContactCard HCE Service</string>
+    <string name="aid_group_desc">NFC Forum Type 4 Tag Emulation</string>
+</resources>
